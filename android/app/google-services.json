@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296659787784",
+    "project_id": "auth-firebase-c930f",
+    "storage_bucket": "auth-firebase-c930f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296659787784:android:15ef0bc8d32a9d3e8af1bd",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296659787784-s3u7398usstn3fug777ep0eudtvjulib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASwN1_CTOed0kyAtjKkk9Lg-9CNOZlUhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296659787784-s3u7398usstn3fug777ep0eudtvjulib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
